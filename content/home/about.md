@@ -31,4 +31,4 @@ weight = 5
 
 # Biography
 
-I am currently a Ph.D. candidate in computer Vision and percetion for autonomous vehicles at TU Eindhoven.
+I am currently a Ph.D. candidate in computer vision and perception for autonomous vehicles at TU Eindhoven.

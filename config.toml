@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Technische Universiteit Eindhoven", url = "http://www.tue.nl" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "me.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "me@chenyanglu.com"
   address = "Technische Universiteit Eindhoven, Eindhoven, The Netherlands"
   telegram = ""
