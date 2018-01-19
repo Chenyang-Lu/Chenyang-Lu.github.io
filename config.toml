@@ -219,7 +219,10 @@ defaultContentLanguageInSubdir = false
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:c.lu.2@student.tue.nl"
-
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//www.linkedin.com/in/cy-lu/"
 #  [[params.social]]
 #    icon = "google-scholar"
 #    icon_pack = "ai"
