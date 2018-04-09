@@ -250,10 +250,10 @@ defaultContentLanguageInSubdir = false
   name = "CV"
   url = "cv.pdf"
   weight = 2
-# [[menu.main]]
-#   name = "Publications"
-#   url = "#publications_selected"
-#   weight = 2
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 3
 #
 # [[menu.main]]
 #   name = "Posts"
