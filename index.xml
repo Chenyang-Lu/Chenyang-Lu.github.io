@@ -10,5 +10,14 @@
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Monocular Semantic Occupancy Grid Mapping with Convolutional Variational Auto-Encoders</title>
+      <link>http://chenyanglu.com/publication/iros18/</link>
+      <pubDate>Mon, 09 Apr 2018 11:43:41 +0200</pubDate>
+      
+      <guid>http://chenyanglu.com/publication/iros18/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
