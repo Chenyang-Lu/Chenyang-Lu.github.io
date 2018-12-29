@@ -1,10 +1,10 @@
 +++
-title = "Monocular Semantic Occupancy Grid Mapping with Convolutional Variational Auto-Encoders"
+title = "Monocular Semantic Occupancy Grid Mapping with Convolutional Variational Encoder-Decoder Networks"
 date = 2018-04-09T11:43:41+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Chenyang Lu", "Gijs Dubbelman", "Marinus Jacobus Gerardus van de Molengraft"]
+authors = ["Chenyang Lu", "Marinus Jacobus Gerardus van de Molengraft", "Gijs Dubbelman"]
 
 # Publication type.
 # Legend:
@@ -15,11 +15,11 @@ authors = ["Chenyang Lu", "Gijs Dubbelman", "Marinus Jacobus Gerardus van de Mol
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = [2]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv preprint, 1804.02176"
-publication_short = ""
+publication = "IEEE Robotics and Automation Letters"
+publication_short = "IEEE Robotics and Automation Letters"
 
 # Abstract and optional shortened version.
 abstract = ""
