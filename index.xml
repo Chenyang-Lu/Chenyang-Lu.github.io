@@ -11,11 +11,20 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Monocular Semantic Occupancy Grid Mapping with Convolutional Variational Encoder-Decoder Networks</title>
-      <link>http://chenyanglu.com/publication/ral18/</link>
+      <title>Hallucinating Beyond Observation: Learning to Complete the Road Layout with Partial Observation and Unpaired Prior Knowledge</title>
+      <link>http://chenyanglu.com/publication/road_completion/</link>
       <pubDate>Tue, 01 Jan 2019 11:43:41 +0200</pubDate>
       
-      <guid>http://chenyanglu.com/publication/ral18/</guid>
+      <guid>http://chenyanglu.com/publication/road_completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monocular Semantic Occupancy Grid Mapping with Convolutional Variational Encoder-Decoder Networks</title>
+      <link>http://chenyanglu.com/publication/semantic_occ_map/</link>
+      <pubDate>Tue, 01 Jan 2019 11:43:41 +0200</pubDate>
+      
+      <guid>http://chenyanglu.com/publication/semantic_occ_map/</guid>
       <description></description>
     </item>
     
