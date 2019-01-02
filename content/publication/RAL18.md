@@ -1,6 +1,6 @@
 +++
 title = "Monocular Semantic Occupancy Grid Mapping with Convolutional Variational Encoder-Decoder Networks"
-date = 2018-04-09T11:43:41+02:00
+date = 2019-01-01T11:43:41+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -48,7 +48,7 @@ url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://youtu.be/8M44sjkNLy4"
+url_video = ""
 url_poster = ""
 url_source = ""
 
