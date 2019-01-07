@@ -248,7 +248,7 @@ defaultContentLanguageInSubdir = false
   weight = 1
 [[menu.main]]
   name = "CV"
-  url = "cv.pdf"
+  url = "CV_Chenyang_Lu.pdf"
   weight = 2
 [[menu.main]]
   name = "Publications"
