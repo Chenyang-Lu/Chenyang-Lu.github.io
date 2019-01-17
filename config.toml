@@ -10,7 +10,7 @@ title = "Chenyang Lu (鲁晨阳)"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -27,6 +27,7 @@ googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
+hasCJKLanguage = true
 defaultContentLanguageInSubdir = false
 
 [outputs]
@@ -246,9 +247,10 @@ defaultContentLanguageInSubdir = false
   name = "Home"
   url = "#about"
   weight = 1
+
 [[menu.main]]
   name = "CV"
-  url = "CV_Chenyang_Lu.pdf"
+  url = "CV_Chenyang_Lu_en.pdf"
   weight = 2
 [[menu.main]]
   name = "Publications"
@@ -285,5 +287,33 @@ defaultContentLanguageInSubdir = false
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
-[Languages.en]
+[languages]
+
+[languages.en]
+  languageName =  "English"
   languageCode = "en-us"
+  weight = 1
+  contentDir= "content/english"
+
+[languages.zh]
+  languageName = "中文"
+  languageCode = "zh-cn"
+  contentDir = "content/chinese"
+  weight = 2
+
+[[languages.zh.menu.main]]
+  name = "关于我"
+  url = "#about"
+  weight = 1
+[[languages.zh.menu.main]]
+  name = "简历"
+  url = "../CV_Chenyang_Lu_en.pdf"
+  weight = 2
+[[languages.zh.menu.main]]
+  name = "出版物"
+  url = "#publications"
+  weight = 3
+[[languages.zh.menu.main]]
+  name = "联系方式"
+  url = "#contact"
+  weight = 6
