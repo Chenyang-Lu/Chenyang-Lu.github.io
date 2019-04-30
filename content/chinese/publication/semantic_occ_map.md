@@ -18,8 +18,8 @@ authors = ["Chenyang Lu", "Marinus Jacobus Gerardus van de Molengraft", "Gijs Du
 publication_types = [2]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Robotics and Automation Letters"
-publication_short = "IEEE Robotics and Automation Letters"
+publication = "IEEE Robotics and Automation Letters (also presented in ICRA'19)"
+publication_short = "IEEE Robotics and Automation Letters (also presented in ICRA'19)"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -42,9 +42,9 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://ieeexplore.ieee.org/document/8603774"
 url_preprint = "https://arxiv.org/abs/1804.02176"
-url_code = ""
+url_code = "https://github.com/Chenyang-Lu/mono-semantic-occupancy"
 url_dataset = ""
 url_project = ""
 url_slides = ""
