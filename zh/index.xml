@@ -11,6 +11,15 @@
     <atom:link href="/zh/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Semantic Foreground Inpainting from Weak Supervision</title>
+      <link>http://chenyanglu.com/zh/publication/semantic_foreground_inpainting/</link>
+      <pubDate>Thu, 12 Sep 2019 11:43:41 +0200</pubDate>
+      
+      <guid>http://chenyanglu.com/zh/publication/semantic_foreground_inpainting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hallucinating Beyond Observation: Learning to Complete the Road Layout with Partial Observation and Unpaired Prior Knowledge</title>
       <link>http://chenyanglu.com/zh/publication/road_completion/</link>
       <pubDate>Tue, 01 Jan 2019 11:43:41 +0200</pubDate>
