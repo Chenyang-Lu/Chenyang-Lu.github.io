@@ -1,6 +1,6 @@
 +++
 title = "Hallucinating Beyond Observation: Learning to Complete the Road Layout with Partial Observation and Unpaired Prior Knowledge"
-date = 2019-01-01T11:43:41+02:00
+date = 2019-07-01T11:43:41+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
