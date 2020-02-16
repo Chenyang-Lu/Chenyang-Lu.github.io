@@ -1,6 +1,6 @@
 +++
 title = "Semantic Foreground Inpainting from Weak Supervision"
-date = 2019-09-12T11:43:41+02:00
+date = 2020-02-16T11:43:41+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Chenyang Lu", "Gijs Dubbelman"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = [0]
+publication_types = [2]
 
 # Publication name and optional abbreviated version.
-publication = "Under Review"
-publication_short = "Under Review"
+publication = "IEEE Robotics and Automation Letters (also presented in ICRA'20)"
+publication_short = "IEEE Robotics and Automation Letters (also presented in ICRA'20)"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://ieeexplore.ieee.org/document/8963753"
 url_preprint = "https://arxiv.org/abs/1909.04564"
 url_code = "https://github.com/Chenyang-Lu/semantic-foreground-inpainting"
 url_dataset = ""
