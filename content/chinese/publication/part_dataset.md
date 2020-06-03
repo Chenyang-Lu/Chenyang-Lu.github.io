@@ -1,10 +1,10 @@
 +++
-title = "Learning to complete partial observations from unpaired prior knowledge"
-date = 2020-06-01T11:43:41+02:00
+title = "Cityscapes-Panoptic-Parts and PASCAL-Panoptic-Parts datasets for Scene Understanding"
+date = 2020-05-01T11:43:41+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Chenyang Lu", "Gijs Dubbelman"]
+authors = ["Panagiotis Meletis", "Xiaoxiao Wen", "Chenyang Lu", "Daan de Geus", "Gijs Dubbelman"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["Chenyang Lu", "Gijs Dubbelman"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = [2]
+publication_types = [4]
 
 # Publication name and optional abbreviated version.
-publication = "Pattern Recognition"
+publication = "arXiv preprint"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,8 +42,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.1016/j.patcog.2020.107426"
-url_preprint = "https://arxiv.org/abs/1907.09786"
+url_pdf = ""
+url_preprint = "https://arxiv.org/abs/2004.07944"
 url_code = ""
 url_dataset = ""
 url_project = ""
