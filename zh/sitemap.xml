@@ -5,11 +5,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="http://chenyanglu.com/zh/publication/semantic_foreground_inpainting/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="http://chenyanglu.com/publication/semantic_foreground_inpainting/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://chenyanglu.com/zh/publication/road_completion/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://chenyanglu.com/publication/road_completion/" hreflang="en"/>
     
-      <loc>http://chenyanglu.com/zh/publication/semantic_foreground_inpainting/</loc>
-      <lastmod>2020-02-16T11:43:41+02:00</lastmod>
+      <loc>http://chenyanglu.com/zh/publication/road_completion/</loc>
+      <lastmod>2020-06-01T11:43:41+02:00</lastmod>
     </url>
     
   
@@ -17,11 +17,23 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="http://chenyanglu.com/zh/publication/road_completion/" hreflang="zh"/>
-      <xhtml:link rel="alternate" href="http://chenyanglu.com/publication/road_completion/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://chenyanglu.com/zh/publication/part_dataset/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://chenyanglu.com/publication/part_dataset/" hreflang="en"/>
     
-      <loc>http://chenyanglu.com/zh/publication/road_completion/</loc>
-      <lastmod>2019-07-01T11:43:41+02:00</lastmod>
+      <loc>http://chenyanglu.com/zh/publication/part_dataset/</loc>
+      <lastmod>2020-05-01T11:43:41+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://chenyanglu.com/zh/publication/semantic_foreground_inpainting/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://chenyanglu.com/publication/semantic_foreground_inpainting/" hreflang="en"/>
+    
+      <loc>http://chenyanglu.com/zh/publication/semantic_foreground_inpainting/</loc>
+      <lastmod>2020-02-16T11:43:41+02:00</lastmod>
     </url>
     
   
