@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chenyang Lu (鲁晨阳) on Chenyang Lu (鲁晨阳)</title>
+    <link>http://chenyanglu.com/</link>
+    <description>Recent content in Chenyang Lu (鲁晨阳) on Chenyang Lu (鲁晨阳)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Learning to complete partial observations from unpaired prior knowledge</title>
+      <link>http://chenyanglu.com/publication/road_completion/</link>
+      <pubDate>Mon, 01 Jun 2020 11:43:41 +0200</pubDate>
+      
+      <guid>http://chenyanglu.com/publication/road_completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cityscapes-Panoptic-Parts and PASCAL-Panoptic-Parts datasets for Scene Understanding</title>
+      <link>http://chenyanglu.com/publication/part_dataset/</link>
+      <pubDate>Fri, 01 May 2020 11:43:41 +0200</pubDate>
+      
+      <guid>http://chenyanglu.com/publication/part_dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Foreground Inpainting from Weak Supervision</title>
+      <link>http://chenyanglu.com/publication/semantic_foreground_inpainting/</link>
+      <pubDate>Sun, 16 Feb 2020 11:43:41 +0200</pubDate>
+      
+      <guid>http://chenyanglu.com/publication/semantic_foreground_inpainting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monocular Semantic Occupancy Grid Mapping with Convolutional Variational Encoder-Decoder Networks</title>
+      <link>http://chenyanglu.com/publication/semantic_occ_map/</link>
+      <pubDate>Tue, 01 Jan 2019 11:43:41 +0200</pubDate>
+      
+      <guid>http://chenyanglu.com/publication/semantic_occ_map/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
