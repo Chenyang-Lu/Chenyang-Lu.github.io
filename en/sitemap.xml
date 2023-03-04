@@ -5,6 +5,54 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://chenyanglu.com/publication/cvpr23/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://chenyanglu.com/zh/publication/cvpr23/" hreflang="zh"/>
+    
+      <loc>http://chenyanglu.com/publication/cvpr23/</loc>
+      <lastmod>2023-03-01T11:43:41+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://chenyanglu.com/publication/cvpr21/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://chenyanglu.com/zh/publication/cvpr21/" hreflang="zh"/>
+    
+      <loc>http://chenyanglu.com/publication/cvpr21/</loc>
+      <lastmod>2021-06-01T11:43:41+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://chenyanglu.com/publication/road_graph_iv/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://chenyanglu.com/zh/publication/road_graph_iv/" hreflang="zh"/>
+    
+      <loc>http://chenyanglu.com/publication/road_graph_iv/</loc>
+      <lastmod>2021-06-01T11:43:41+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://chenyanglu.com/publication/igi_trans/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://chenyanglu.com/zh/publication/igi_trans/" hreflang="zh"/>
+    
+      <loc>http://chenyanglu.com/publication/igi_trans/</loc>
+      <lastmod>2020-12-01T11:43:41+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://chenyanglu.com/publication/road_completion/" hreflang="en"/>
       <xhtml:link rel="alternate" href="http://chenyanglu.com/zh/publication/road_completion/" hreflang="zh"/>
     
