@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Chenyang Lu (鲁晨阳)</title>
-    <link>http://chenyanglu.com/zh/publication/</link>
+    <link>http://chenyang-lu.github.io/zh/publication/</link>
     <description>Recent content in Publications on Chenyang Lu (鲁晨阳)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://chenyanglu.com/zh/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chenyang-lu.github.io/zh/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content-aware Token Sharing for Efficient Semantic Segmentation with Vision Transformers</title>
-      <link>http://chenyanglu.com/zh/publication/cvpr23/</link>
+      <link>http://chenyang-lu.github.io/zh/publication/cvpr23/</link>
       <pubDate>Wed, 01 Mar 2023 11:43:41 +0200</pubDate>
       
-      <guid>http://chenyanglu.com/zh/publication/cvpr23/</guid>
+      <guid>http://chenyang-lu.github.io/zh/publication/cvpr23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Part-aware panoptic segmentation</title>
-      <link>http://chenyanglu.com/zh/publication/cvpr21/</link>
+      <link>http://chenyang-lu.github.io/zh/publication/cvpr21/</link>
       <pubDate>Tue, 01 Jun 2021 11:43:41 +0200</pubDate>
       
-      <guid>http://chenyanglu.com/zh/publication/cvpr21/</guid>
+      <guid>http://chenyang-lu.github.io/zh/publication/cvpr21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Supervised Road Layout Parsing with Graph Auto-Encoding</title>
-      <link>http://chenyanglu.com/zh/publication/road_graph_iv/</link>
+      <link>http://chenyang-lu.github.io/zh/publication/road_graph_iv/</link>
       <pubDate>Tue, 01 Jun 2021 11:43:41 +0200</pubDate>
       
-      <guid>http://chenyanglu.com/zh/publication/road_graph_iv/</guid>
+      <guid>http://chenyang-lu.github.io/zh/publication/road_graph_iv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image-Graph-Image Translation via Auto-Encoding</title>
-      <link>http://chenyanglu.com/zh/publication/igi_trans/</link>
+      <link>http://chenyang-lu.github.io/zh/publication/igi_trans/</link>
       <pubDate>Tue, 01 Dec 2020 11:43:41 +0200</pubDate>
       
-      <guid>http://chenyanglu.com/zh/publication/igi_trans/</guid>
+      <guid>http://chenyang-lu.github.io/zh/publication/igi_trans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to complete partial observations from unpaired prior knowledge</title>
-      <link>http://chenyanglu.com/zh/publication/road_completion/</link>
+      <link>http://chenyang-lu.github.io/zh/publication/road_completion/</link>
       <pubDate>Mon, 01 Jun 2020 11:43:41 +0200</pubDate>
       
-      <guid>http://chenyanglu.com/zh/publication/road_completion/</guid>
+      <guid>http://chenyang-lu.github.io/zh/publication/road_completion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cityscapes-Panoptic-Parts and PASCAL-Panoptic-Parts datasets for Scene Understanding</title>
-      <link>http://chenyanglu.com/zh/publication/part_dataset/</link>
+      <link>http://chenyang-lu.github.io/zh/publication/part_dataset/</link>
       <pubDate>Fri, 01 May 2020 11:43:41 +0200</pubDate>
       
-      <guid>http://chenyanglu.com/zh/publication/part_dataset/</guid>
+      <guid>http://chenyang-lu.github.io/zh/publication/part_dataset/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic Foreground Inpainting from Weak Supervision</title>
-      <link>http://chenyanglu.com/zh/publication/semantic_foreground_inpainting/</link>
+      <link>http://chenyang-lu.github.io/zh/publication/semantic_foreground_inpainting/</link>
       <pubDate>Sun, 16 Feb 2020 11:43:41 +0200</pubDate>
       
-      <guid>http://chenyanglu.com/zh/publication/semantic_foreground_inpainting/</guid>
+      <guid>http://chenyang-lu.github.io/zh/publication/semantic_foreground_inpainting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monocular Semantic Occupancy Grid Mapping with Convolutional Variational Encoder-Decoder Networks</title>
-      <link>http://chenyanglu.com/zh/publication/semantic_occ_map/</link>
+      <link>http://chenyang-lu.github.io/zh/publication/semantic_occ_map/</link>
       <pubDate>Tue, 01 Jan 2019 11:43:41 +0200</pubDate>
       
-      <guid>http://chenyanglu.com/zh/publication/semantic_occ_map/</guid>
+      <guid>http://chenyang-lu.github.io/zh/publication/semantic_occ_map/</guid>
       <description></description>
     </item>
     

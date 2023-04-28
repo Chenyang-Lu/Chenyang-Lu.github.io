@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chenyang Lu (鲁晨阳)</title>
-    <link>http://chenyanglu.com/zh/tags/</link>
+    <link>http://chenyang-lu.github.io/zh/tags/</link>
     <description>Recent content in Tags on Chenyang Lu (鲁晨阳)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; 2019</copyright>
     
-	<atom:link href="http://chenyanglu.com/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chenyang-lu.github.io/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

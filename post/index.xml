@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Chenyang Lu (鲁晨阳)</title>
-    <link>http://chenyanglu.com/post/</link>
+    <link>http://chenyang-lu.github.io/post/</link>
     <description>Recent content in Posts on Chenyang Lu (鲁晨阳)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="http://chenyanglu.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chenyang-lu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
